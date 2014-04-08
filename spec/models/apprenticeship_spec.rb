@@ -19,7 +19,7 @@ describe Apprenticeship do
     it "should not be valid without a start_date field"
   end
 
-  descibe "end_date" do
+  describe "end_date" do
     it "should not have an end_date before the start_date field"
   end
 
